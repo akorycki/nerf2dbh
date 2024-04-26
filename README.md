@@ -1,6 +1,6 @@
 # ClickPoint 1.0
 
-![image](inside_a_pipe.png){width=500px}{align=center}
+![image](images/inside_a_pipe.png){width=500px}{align=center}
 
 ## Getting started
 
