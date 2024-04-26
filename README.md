@@ -3,8 +3,9 @@
   <img src="images/inside_a_pipe.png" width="600" title="">
 </p>
 <p align="left">
-  <img src="images/NerfCapture_feature_cloud.png" width="300" title="">
-  <img src="images/pvc_pipe_d_liosam.png" width="300" title="">
+  <img src="images/NerfCapture_feature_cloud.png" width="200" title="">
+  <img src="images/pvc_pipe_d_liosam.png" width="200" title="">
+  <img src="images/pvc_pip_NerfCapture.mp4" width="300" title="">
 </p>
 
 ## Getting started
