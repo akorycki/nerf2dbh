@@ -1,0 +1,5 @@
+pcd_file_path: "data/pvc_pipe_NerfCapture_0/pvc_pipe_NerfCapture_0.pcd"
+json_file_path: "data/pvc_pipe_NerfCapture_0/dataparser_transforms.json"
+down_sample_rate: 0.05
+is_metric: true
+show_figs: false
