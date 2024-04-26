@@ -1,8 +1,11 @@
 # nerf2dbh
-
-![image](images/inside_a_pipe.png){width=500px}{align=center}
-![image](images/NerfCapture_feature_cloud.png){width=50px}{align=left}
-![image](images/pvc_pipe_d_liosam.png){width=50px}{align=right}
+<p align="center">
+  <img src="images/inside_a_pipe.png" width="400" title="">
+</p>
+<p align="left">
+  <img src="images/NerfCapture_feature_cloud.png" width="100" title="">
+  <img src="images/pvc_pipe_d_liosam.png" width="100" title="">
+</p>
 
 ## Getting started
 
